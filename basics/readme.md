@@ -1,1 +1,0 @@
-este es el read de la carpeta basics
